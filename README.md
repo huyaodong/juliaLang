@@ -1,3 +1,5 @@
 julia
 =====
-Examples can be found in my [nbviewer](http://nbviewer.ipython.org/github/huyaodong7/juliaLang/tree/master/) page.
+This repo contains my own study notes on the julia language. Different topics are stored in different files. Examples can be found in my [nbviewer](http://nbviewer.ipython.org/github/huyaodong7/juliaLang/tree/master/) page.
+
+Other excellent resources for learning julia languages include notes of [D. Bates](http://nbviewer.ipython.org/github/dmbates/JuliaWorkshop/), [B. Sadeghi](http://nbviewer.ipython.org/github/bensadeghi/julia-datascience-talk/blob/master/datascience-talk.ipynb), [J.M. White](http://nbviewer.ipython.org/github/johnmyleswhite/DCStats.jl/tree/master/), [D. Sanders](http://nbviewer.ipython.org/github/dpsanders/scipy_2014_julia/tree/master/), and so on. Some other resources, like [julia by Examples](http://www.scolvin.com/juliabyexample/), [Learn julia in Y Minutes](http://learnxinyminutes.com/docs/julia/), [The julia Express](http://bogumilkaminski.pl/files/julia_express.pdf), can be found at the bottom of [B. Sadeghi](http://nbviewer.ipython.org/github/bensadeghi/julia-datascience-talk/blob/master/datascience-talk.ipynb)'s page.
